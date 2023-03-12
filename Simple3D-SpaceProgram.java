@@ -1,6 +1,5 @@
 // -------------------------------------------------------
 // Assignment 1
-// Written by: Mohammed Al assad, 40252007
 // For COMP 248 Section 2222-R – Fall 2022
 // --------------------------------------------------------
 // Opening the scanner so that the user can input using his keyboard
